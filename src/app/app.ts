@@ -8,5 +8,5 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.scss'
 })
 export class App {
-  protected title = 'Abhi 👋🏻';
+  protected title = 'I\'m Abhi 👋🏻';
 }
